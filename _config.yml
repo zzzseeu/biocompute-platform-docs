@@ -1,8 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 生物计算平台
+description: 用于生物数据分析、工作流开发的智能平台。
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# url: https://just-the-docs.github.io
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "favicon.ico"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github: https://github.com/js-ish
+aux_links_new_tab: true
+
+heading_anchors: true
